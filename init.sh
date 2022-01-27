@@ -11,6 +11,3 @@ lando init \
 
 # Start it up
 lando start
-
-# List information about this app.
-lando info
