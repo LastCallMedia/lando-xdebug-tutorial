@@ -1,0 +1,7 @@
+name: my-first-wordpress-app
+recipe: wordpress
+config:
+  webroot: wordpress
+  xdebug: true
+  config:
+    php: config/php.ini
