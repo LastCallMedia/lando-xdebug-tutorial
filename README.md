@@ -1,7 +1,7 @@
 
 # Lando XDebug Tutorial
 
-Running a debugger when developing in PHP is often a skill that developers put off learning for a surprisingly long amount of time. Additionally, with the number of development setups available and the intricacies of setting up XDebug, it can often be challenging to get started. This tutorial is written to help developers get started with XDebug using [Lando](https://lando.dev/) and [Visual Studio Code](https://code.visualstudio.com/)
+Lando XDebug Tutorial is brought to you by your friends at [Last Call Media](https://www.lastcallmedia.com). Running a debugger when developing in PHP is often a skill that developers put off learning for a surprisingly long amount of time. Additionally, with the number of development setups available and the intricacies of setting up XDebug, it can often be challenging to get started. This tutorial is written to help developers get started with XDebug using [Lando](https://lando.dev/) and [Visual Studio Code](https://code.visualstudio.com/)
 
 ## Initial setup
 
